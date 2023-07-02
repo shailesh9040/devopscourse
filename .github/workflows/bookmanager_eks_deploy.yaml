@@ -6,7 +6,7 @@ on:
 #      - feature/eks-deploy
 env:
   WORKSPACE: module3/book-manager-app
-  CLUSTER_NAME: mycluster
+  CLUSTER_NAME: bookmanager-cluster
 permissions:
   contents: read
   issues: read
